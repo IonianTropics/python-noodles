@@ -1,7 +1,7 @@
 """
 Python Calculator
 9/6/2020 - 5:09 pm
-Author: Luke Johnson
+(Not really functional, just practice with tkinter)
 """
 
 import math
