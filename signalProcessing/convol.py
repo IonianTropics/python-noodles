@@ -1,7 +1,6 @@
 
 import numpy as np
 import matplotlib.pyplot as plt
-import sys
 
 t = np.linspace(-1, 1, 1000)
 t2 = np.linspace(2 * t[0], 2 * t[-1], 2*len(t)-1)
